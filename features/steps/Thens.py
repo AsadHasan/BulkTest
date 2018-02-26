@@ -1,6 +1,6 @@
 from behave import then
 
-from pages.SearchResultsChecks import SearchResultsChecks
+from pages.pagechecks.SearchResultsChecks import SearchResultsChecks
 
 
 @then(u'only products with filter {text} are shown')
