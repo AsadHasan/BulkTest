@@ -20,5 +20,5 @@ class SearchResults:
             self.helper.waitToBeClickable(*moreOptionLocator)
             self.driver.find_element(*moreOptionLocator).click()
             self.helper.waitToBeClickable(*filterLocator)
-            self.driver.find_element(*filterLocator)
+            self.driver.find_element(*filterLocator).click()
 
