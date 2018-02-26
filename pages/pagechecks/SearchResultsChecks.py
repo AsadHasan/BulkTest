@@ -13,5 +13,4 @@ class SearchResultsChecks:
             for labelList in labelLists:
                 for element in labelList:
                     labelText=element.get_attribute("outerText")
-                    print(labelText)
                     assert label in labelText
