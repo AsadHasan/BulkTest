@@ -12,6 +12,6 @@ Feature: Search for products
     Then only products with filter <label> are shown
 
     Examples:
-      | products      | filter |
-      | multivitamins | vegan  |
+      | products      | filter | label |
+      | multivitamins | vegan  | VG    |
 

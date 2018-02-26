@@ -6,14 +6,14 @@ from selenium.webdriver.support.wait import WebDriverWait
 class PageHelper:
     def __init__(self, driver):
         self.driver=driver
-        self.wait = WebDriverWait(self.driver, 10)
+        self.wait = WebDriverWait(self.driver, 8)
 
     def waitToBeClickable(self, *locator):
         self.wait.until(expected_conditions.element_to_be_clickable(locator))
 
-    def isElementAvailable(self, *locator):
+    def elementsAvailable(self, *locator):
         try:
-            self.wait.until(expected_conditions.element_to_be_clickable(locator))
+            self.wait.until(expected_conditions.visibility_of_all_elements_located(locator))
             return True
         except TimeoutException:
             return False
