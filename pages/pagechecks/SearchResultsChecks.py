@@ -7,15 +7,10 @@ class SearchResultsChecks:
         self.driver = driver
         self.helper = PageHelper(self.driver)
 
-    def checkLabels(self, label):
+    def checkLabels(self, expectedLabel):
         if self.helper.elementsAvailable(*SearchResults.RESULT_LABELS):
-            labelLists = self.driver.find_elements(*SearchResults.RESULT_LABELS)
-            if labelLists.__len__() > 1:
-                for labelList in labelLists:
-                    for element in labelList:
-                        labelText = element.get_attribute("outerText")
-                        assert label in labelText
-            else:
-                labelText = labelLists[0].get_attribute("outerText")
-                print(labelText)
-                assert label in labelText
+            labelsList = self.driver.find_elements(*SearchResults.RESULT_LABELS)
+            for label in labelsList:
+                actualLabel = label.get_attribute("outerText")
+                assert expectedLabel in actualLabel
+      
