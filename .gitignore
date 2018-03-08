@@ -2,3 +2,4 @@ conf/drivers
 debug.log
 .idea
 __pycache__
+results
