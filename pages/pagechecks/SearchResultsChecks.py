@@ -13,4 +13,3 @@ class SearchResultsChecks:
             for label in labelsList:
                 actualLabel = label.get_attribute("outerText")
                 assert expectedLabel in actualLabel
-      
