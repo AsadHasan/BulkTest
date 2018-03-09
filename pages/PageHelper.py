@@ -5,7 +5,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 
 class PageHelper:
     def __init__(self, driver):
-        self.driver=driver
+        self.driver = driver
         self.wait = WebDriverWait(self.driver, 5)
 
     def wait_to_be_clickable(self, *locator):
