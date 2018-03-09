@@ -9,5 +9,5 @@ Feature: View products
     Then I can view the product details
 
     Examples:
-      | term   | product                   |
-      | shaker | SHAKER BOTTLE BLACK 700ML |
+      | term   | product                            |
+      | shaker | Pro Series™ Storage Shaker™ 600ml |

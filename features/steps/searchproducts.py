@@ -1,29 +1,29 @@
 from behave import given
-from conf.DriverHelper import DriverHelper
 from behave import when
-from pages.pageobjects.Homepage import Homepage
-from pages.pageobjects.SearchResults import SearchResults
 from behave import then
-from pages.pagechecks.SearchResultsChecks import SearchResultsChecks
+
+import definitions
+from pages.pagechecks.searchresultschecks import check_labels
+from pages.pageobjects.homepage import search_for
+from pages.pageobjects.searchresults import filter_results_by
 
 
 @given(u'I am on the homepage')
 def step_impl(context):
-    context.driver = DriverHelper(context.browser).driver
-    context.driver.maximize_window()
-    context.driver.get(context.url)
+    definitions.DRIVER.maximize_window()
+    definitions.DRIVER.get(context.url)
 
 
 @when(u'I search for {products}')
 def step_impl(context, products):
-    Homepage(context.driver).searchFor(products)
+    search_for(products)
 
 
 @when(u'apply {filter} on the results')
 def step_impl(context, filter):
-    SearchResults(context.driver).filterResultsBy(filter)
+    filter_results_by(filter)
 
 
 @then(u'only products with filter {label} are shown')
 def step_impl(context, label):
-    SearchResultsChecks(context.driver).checkLabels(label)
+    check_labels(label)
