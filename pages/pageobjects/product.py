@@ -5,6 +5,7 @@ import definitions
 DESCRIPTION = (By.ID, "nav-description")
 ADD_TO_CART_BUTTON = (By.ID, "product-addtocart-button")
 QUANTITY_BUTTON = (By.ID, "qty")
+CART_ADDITION_SUCCESS_MESSAGE = (By.CLASS_NAME, "product-popup-content")
 
 
 def add_to_cart(*quantity):
@@ -13,6 +14,17 @@ def add_to_cart(*quantity):
         definitions.DRIVER.find_element(*QUANTITY_BUTTON).send_keys(quantity)
     definitions.HELPER.wait_to_be_clickable(*ADD_TO_CART_BUTTON)
     definitions.DRIVER.find_element(*ADD_TO_CART_BUTTON).click()
+
+
+def product_in_cart(product):
+    expected_message = "You added " + product + " to your shopping cart."
+    definitions.HELPER.wait_to_be_clickable(*CART_ADDITION_SUCCESS_MESSAGE)
+    actual_message = definitions.DRIVER.find_element(*CART_ADDITION_SUCCESS_MESSAGE).text
+
+    if expected_message in actual_message:
+        return True
+    else:
+        return False
 
 
 def product_has_description():
