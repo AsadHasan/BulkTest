@@ -8,6 +8,8 @@ name = "pypi"
 [packages]
 
 requests = "*"
+behave = "*"
+selenium = "*"
 
 
 [dev-packages]
