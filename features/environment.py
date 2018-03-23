@@ -19,7 +19,7 @@ def before_all(context):
 
 
 def after_step(context, step):
-    screenshots_directory = os.path.join(definitions.PROJECT_ROOT, "screenshots")
+    screenshots_directory = os.path.join(definitions.PROJECT_ROOT, context.browser + "_screenshots")
     if step.status == "failed":
         if not os.path.exists(screenshots_directory):
             os.makedirs(screenshots_directory)
