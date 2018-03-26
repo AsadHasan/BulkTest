@@ -550,3 +550,83 @@ JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line
 JavaScript warning: https://assets.resultspage.com/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
 JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/menu
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/validation
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_GoogleTagManager/js/google-analytics-universal
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_GoogleTagManager/js/google-analytics-universal-cart
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/storage
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Checkout/js/view/minicart
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/core/collection
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Tax/js/view/checkout/minicart/subtotal/totals
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Msrp/js/view/checkout/minicart/subtotal/totals
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: uncaught exception: [object ProgressEvent]
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/url
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Tax/js/view/checkout/minicart/subtotal/totals
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Catalog/js/view/image
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: jquery/validate
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Checkout/js/view/minicart
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/core/collection
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Msrp/js/view/checkout/minicart/subtotal/totals
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://assets.resultspage.com/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Tax/js/view/checkout/minicart/subtotal/totals
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: uncaught exception: [object ProgressEvent]
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Msrp/js/view/checkout/minicart/subtotal/totals
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Catalog/js/view/image
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Customer/js/view/authentication-popup
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/view/messages
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: BulkPowders_DeliveryCountdown/js/countdown
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Catalog/js/view/compare-products
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Captcha/js/view/checkout/loginCaptcha
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Theme/js/view/messages
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/url
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://assets.resultspage.com/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_GoogleTagManager/js/google-analytics-universal
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/storage
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: uncaught exception: [object ProgressEvent]
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Tax/js/view/checkout/minicart/subtotal/totals
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Catalog/js/view/image
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Msrp/js/view/checkout/minicart/subtotal/totals
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Theme/js/view/messages
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: BulkPowders_DeliveryCountdown/js/countdown
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Catalog/js/view/compare-products
+http://requirejs.org/docs/errors.html#scripterror
+[Parent 11348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2864, Chrome_Child

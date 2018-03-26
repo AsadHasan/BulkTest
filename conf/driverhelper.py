@@ -3,7 +3,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.firefox.options import Options
 
 import definitions
-from definitions import CHROME_DRIVER_PATH, GECKO_DRIVER_PATH, IE_DRIVER_PATH
+from definitions import CHROME_DRIVER_PATH, GECKO_DRIVER_PATH, EDGE_PATH
 
 
 def set_driver(browser):
@@ -18,7 +18,7 @@ def set_driver(browser):
         definitions.DRIVER = webdriver.Firefox(firefox_options=firefox_options, executable_path=GECKO_DRIVER_PATH)
 
     elif browser == "edge":
-        definitions.DRIVER = webdriver.Edge()
+        definitions.DRIVER = webdriver.Edge(EDGE_PATH)
 
     else:
         print("Browser not supported")
