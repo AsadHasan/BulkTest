@@ -1,0 +1,552 @@
+1522067360228	geckodriver	INFO	geckodriver 0.19.1
+1522067360243	geckodriver	INFO	Listening on 127.0.0.1:56360
+1522067363415	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\d-asha1\\AppData\\Local\\Temp\\rust_mozprofile.PNIr6iaz4AQC"
+1522072019252	geckodriver	INFO	geckodriver 0.19.1
+1522072019261	geckodriver	INFO	Listening on 127.0.0.1:63234
+1522072022338	mozrunner::runner	INFO	Running command: "C:\\\\Program Files (x86)\\\\Mozilla Firefox\\\\firefox.exe" "-marionette" "-profile" "C:\\Users\\d-asha1\\AppData\\Local\\Temp\\rust_mozprofile.84u8h8fMZ0E8"
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+1522072022918	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+1522072024308	Marionette	INFO	Listening on port 63248
+1522072024368	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+[Parent 6876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3364, Chrome_ChildThre1522072121310	geckodriver	INFO	geckodriver 0.19.1
+1522072121319	geckodriver	INFO	Listening on 127.0.0.1:63484
+1522072124397	mozrunner::runner	INFO	Running command: "C:\\\\Program Files (x86)\\\\Mozilla Firefox\\\\firefox.exe" "-marionette" "-profile" "C:\\Users\\d-asha1\\AppData\\Local\\Temp\\rust_mozprofile.rPsvsWiZmKLy"
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+1522072124980	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+1522072126352	Marionette	INFO	Listening on port 63496
+1522072126472	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+[Child 7204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522072496920	geckodriver	INFO	geckodriver 0.19.1
+1522072496929	geckodriver	INFO	Listening on 127.0.0.1:64126
+1522072500013	mozrunner::runner	INFO	Running command: "C:\\\\Program Files (x86)\\\\Mozilla Firefox\\\\firefox.exe" "-marionette" "-profile" "C:\\Users\\d-asha1\\AppData\\Local\\Temp\\rust_mozprofile.xDAgIjy0MMKr"
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+1522072500574	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+1522072501910	Marionette	INFO	Listening on port 64140
+1522072502082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://assets.resultspage.com/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/core/renderer/types
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/core/renderer/layout
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/menu
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: uncaught exception: [object ProgressEvent]
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: js/menu
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: js/product-slider
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/validation/validation
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/cookies
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_GoogleTagManager/js/google-tag-manager-cart
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/block-loader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Catalog/product/view/validation
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Catalog/js/catalog-add-to-cart
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Customer/js/section-config
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Checkout/js/view/minicart
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/core/collection
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Tax/js/view/checkout/minicart/subtotal/totals
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Msrp/js/view/checkout/minicart/subtotal/totals
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Catalog/js/view/image
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: BulkPowders_DeliveryCountdown/js/countdown
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Catalog/js/view/compare-products
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Customer/js/view/authentication-popup
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/view/messages
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: jquery/validate
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Captcha/js/view/checkout/loginCaptcha
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Theme/js/view/messages
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: BulkPowders_Emarsys/js/emarsys
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/url
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: js/banners/view/banner
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://assets.resultspage.com/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Customer/js/view/authentication-popup
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/view/messages
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Captcha/js/view/checkout/loginCaptcha
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Theme/js/view/messages
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: js/banners/view/banner
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/url
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: jquery/validate
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://assets.resultspage.com/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/core/renderer/layout
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/validation
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: uncaught exception: [object ProgressEvent]
+[Child 6268, Chrome_ChildT[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1522073194945	geckodriver	INFO	geckodriver 0.19.1
+1522073194954	geckodriver	INFO	Listening on 127.0.0.1:65336
+1522073198043	mozrunner::runner	INFO	Running command: "C:\\\\Program Files (x86)\\\\Mozilla Firefox\\\\firefox.exe" "-marionette" "-profile" "C:\\Users\\d-asha1\\AppData\\Local\\Temp\\rust_mozprofile.d7Vb8XS2sukG"
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+1522073198604	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+1522073199972	Marionette	INFO	Listening on port 65350
+1522073200100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://assets.resultspage.com/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/core/renderer/layout
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/validation
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_GoogleTagManager/js/google-analytics-universal
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_GoogleTagManager/js/google-analytics-universal-cart
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: uncaught exception: [object ProgressEvent]
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/storage
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/core/collection
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Tax/js/view/checkout/minicart/subtotal/totals
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Msrp/js/view/checkout/minicart/subtotal/totals
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Catalog/js/view/image
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/url
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: jquery/validate
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: BulkPowders_DeliveryCountdown/js/countdown
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Catalog/js/view/compare-products
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Customer/js/view/authentication-popup
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/view/messages
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Captcha/js/view/checkout/loginCaptcha
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Theme/js/view/messages
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: js/banners/view/banner
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: BulkPowders_Emarsys/js/emarsys
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/core/element/links
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/core/storage/local
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Checkout/js/sidebar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://assets.resultspage.com/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Tax/js/view/checkout/minicart/subtotal/totals
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Catalog/js/view/image
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Customer/js/view/authentication-popup
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/view/messages
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Captcha/js/view/checkout/loginCaptcha
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Theme/js/view/messages
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: js/banners/view/banner
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://assets.resultspage.com/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: [object ProgressEvent]
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Catalog/js/view/image
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Tax/js/view/checkout/minicart/subtotal/totals
+http://requirejs.org/docs/errors.html#scripterror
+[Child 7140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/buil[Ch1522073307094	geckodriver	INFO	geckodriver 0.19.1
+1522073307103	geckodriver	INFO	Listening on 127.0.0.1:49340
+1522073310180	mozrunner::runner	INFO	Running command: "C:\\\\Program Files (x86)\\\\Mozilla Firefox\\\\firefox.exe" "-marionette" "-profile" "C:\\Users\\d-asha1\\AppData\\Local\\Temp\\rust_mozprofile.0qdLJ8n59yc6"
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+1522073310726	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+1522073312042	Marionette	INFO	Listening on port 49352
+1522073312218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://assets.resultspage.com/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_GoogleTagManager/js/google-analytics-universal-cart
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/storage
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: uncaught exception: [object ProgressEvent]
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Checkout/js/view/minicart
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/core/collection
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Tax/js/view/checkout/minicart/subtotal/totals
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Msrp/js/view/checkout/minicart/subtotal/totals
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Catalog/js/view/image
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: BulkPowders_DeliveryCountdown/js/countdown
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/validation/validation
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/cookies
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Catalog/js/catalog-add-to-cart
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_GoogleTagManager/js/google-tag-manager-cart
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/block-loader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/menu
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Customer/js/section-config
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Customer/js/customer-data
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Customer/js/invalidation-processor
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: js/banners/model/banner
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Review/js/process-reviews
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: BulkPowders_Theme/js/configurable-mixin
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_ConfigurableProduct/js/configurable
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/frontend/Magento/base/default/BulkPowders_Theme/js/view/price-per-serving.js, line 10: TypeError: $(...).data(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_GoogleTagManager/js/google-analytics-universal
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_GoogleTagManager/js/google-analytics-universal-cart
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/storage
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Tax/js/view/checkout/minicart/subtotal/totals
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/validation
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Catalog/js/view/image
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://assets.resultspage.com/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/url
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Catalog/js/view/image
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://assets.resultspage.com/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/storage
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: uncaught exception: [object ProgressEvent]
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Tax/js/view/checkout/minicart/subtotal/totals
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Catalog/js/view/image
+http://requirejs.org/docs/errors.html#scripterror
+[Child 12644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12644, Chrome_ChildTh1522073429813	geckodriver	INFO	geckodriver 0.19.1
+1522073429822	geckodriver	INFO	Listening on 127.0.0.1:49776
+1522073432898	mozrunner::runner	INFO	Running command: "C:\\\\Program Files (x86)\\\\Mozilla Firefox\\\\firefox.exe" "-marionette" "-profile" "C:\\Users\\d-asha1\\AppData\\Local\\Temp\\rust_mozprofile.J56qlAtyknMv"
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+1522073433456	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+1522073434788	Marionette	INFO	Listening on port 49788
+1522073434954	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://assets.resultspage.com/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: [object ProgressEvent]
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/storage
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Checkout/js/view/minicart
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/core/collection
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Tax/js/view/checkout/minicart/subtotal/totals
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Msrp/js/view/checkout/minicart/subtotal/totals
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Catalog/js/view/image
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: BulkPowders_DeliveryCountdown/js/countdown
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Customer/js/customer-data
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Catalog/js/catalog-add-to-cart
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/menu
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Customer/js/invalidation-processor
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: js/banners/model/banner
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/core/renderer/types
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/core/renderer/layout
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Review/js/process-reviews
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_ConfigurableProduct/js/configurable
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: BulkPowders_Theme/js/configurable-mixin
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/url
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://assets.resultspage.com/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/validation
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/url
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Tax/js/view/checkout/minicart/subtotal/totals
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Catalog/js/view/image
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Customer/js/view/authentication-popup
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/view/messages
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Captcha/js/view/checkout/loginCaptcha
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Theme/js/view/messages
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: js/banners/view/banner
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/core/element/links
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/core/storage/local
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://assets.resultspage.com/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/menu
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/core/renderer/layout
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_GoogleTagManager/js/google-analytics-universal
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_GoogleTagManager/js/google-analytics-universal-cart
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: uncaught exception: [object ProgressEvent]
+[Child 10124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522076563912	geckodriver	INFO	geckodriver 0.19.1
+1522076563912	geckodriver	INFO	Listening on 127.0.0.1:52450
+1522076567037	mozrunner::runner	INFO	Running command: "C:\\\\Program Files (x86)\\\\Mozilla Firefox\\\\firefox.exe" "-marionette" "-profile" "C:\\Users\\d-asha1\\AppData\\Local\\Temp\\rust_mozprofile.DDr9l0Vk8QVU"
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+1522076568142	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+1522076569460	Marionette	INFO	Listening on port 52459
+1522076570214	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://assets.resultspage.com/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/menu
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/validation
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_GoogleTagManager/js/google-analytics-universal
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_GoogleTagManager/js/google-analytics-universal-cart
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/storage
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Checkout/js/view/minicart
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/core/collection
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Tax/js/view/checkout/minicart/subtotal/totals
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Msrp/js/view/checkout/minicart/subtotal/totals
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: uncaught exception: [object ProgressEvent]
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: js/menu
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/validation/validation
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/cookies
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_GoogleTagManager/js/google-tag-manager-cart
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: js/product-slider
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Catalog/product/view/validation
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Catalog/js/catalog-add-to-cart
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/block-loader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Customer/js/section-config
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Customer/js/customer-data
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Customer/js/invalidation-processor
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: js/banners/model/banner
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Checkout/js/view/minicart
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Tax/js/view/checkout/minicart/subtotal/totals
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/core/collection
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Catalog/js/view/image
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Customer/js/view/authentication-popup
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/url
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/view/messages
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Captcha/js/view/checkout/loginCaptcha
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Theme/js/view/messages
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: js/banners/view/banner
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: BulkPowders_Emarsys/js/emarsys
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://assets.resultspage.com/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Tax/js/view/checkout/minicart/subtotal/totals
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Catalog/js/view/image
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Customer/js/view/authentication-popup
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/url
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Checkout/js/view/minicart
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/core/collection
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://assets.resultspage.com/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: mage/validation
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: uncaught exception: [object ProgressEvent]
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Tax/js/view/checkout/minicart/subtotal/totals
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Catalog/js/view/image
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Checkout/js/view/minicart
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/core/collection
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: Magento_Theme/js/view/messages
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.bulkpowders.co.uk/static/version1522055244/base/Magento/base/default/requirejs/require.js, line 166: Error: Script error for: BulkPowders_Emarsys/js/emarsys
+http://requirejs.org/docs/errors.html#scripterror
+1522076844587	geckodriver	INFO	geckodriver 0.19.1
+1522076844587	geckodriver	INFO	Listening on 127.0.0.1:52707
+1522076847689	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\d-asha1\\AppData\\Local\\Temp\\rust_mozprofile.TRtgumT7u4hc"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+1522076848220	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+1522076849374	Marionette	INFO	Listening on port 52715
+1522076849726	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://assets.resultspage.com/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+1522076927807	geckodriver	INFO	geckodriver 0.19.1
+1522076927823	geckodriver	INFO	Listening on 127.0.0.1:52821
+1522076930914	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\d-asha1\\AppData\\Local\\Temp\\rust_mozprofile.LMrJCXuJ7quN"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+1522076931470	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\d-asha1\AppData\Local\openvr\openvrpaths.vrpath
+1522076932700	Marionette	INFO	Listening on port 52830
+1522076932982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://assets.resultspage.com/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8310600, line 70: unreachable code after return statement
