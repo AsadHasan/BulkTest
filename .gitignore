@@ -1,6 +1,6 @@
 *screenshots
 conf/drivers
-debug.log
+*log
 .idea
 __pycache__
 results
